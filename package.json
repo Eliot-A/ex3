@@ -1,5 +1,6 @@
 {
   "name": "ex3",
+  "type":"module",
   "version": "1.0.0",
   "description": "Ex. 3: Creating a Git Repo from Scratch",
   "main": "index.js",
@@ -9,4 +10,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+  
 }
